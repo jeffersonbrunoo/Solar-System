@@ -14,4 +14,4 @@ Neste projeto, exploraremos várias habilidades relacionadas ao desenvolvimento 
 
 Este projeto consiste em uma aplicação em React que simula uma visualização do Sistema Solar. Além disso, ela exibe informações sobre diversas missões espaciais que ocorreram ao longo da história.
 
-Realizei o projeto de acordo com o [protótipo] (https://www.figma.com/design/V0ShpXzvv8OEi0DlDnXsJq/%5BProjeto%5D%5BFrontend%5D-Solar-System?node-id=2-2&t=bY4vOYz4I8k1glDr-0).
+Realizei o projeto de acordo com o [protótipo](https://www.figma.com/design/V0ShpXzvv8OEi0DlDnXsJq/%5BProjeto%5D%5BFrontend%5D-Solar-System?node-id=2-2&t=bY4vOYz4I8k1glDr-0).
